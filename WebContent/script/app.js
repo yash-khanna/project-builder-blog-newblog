@@ -3,6 +3,7 @@ let addBlog=document.getElementById("addBlog");
 const myForm = document.getElementById("form");
 let postButton = document.getElementById("post");
 let selectedAnswers =  document.getElementById("answers");
+let edit=document.getElementById("edit");
 
 
 
@@ -10,7 +11,11 @@ addBlog.onclick = () =>{
 	console.log("onclick");
 	document.getElementById('popup').style.display = "block";
 } 
-
+edit.onclick = () =>{
+	
+	document.getElementById('popup').style.display = "block";
+	//document.getElementById('title').innerHtml +=title ;
+}
 //Function to Hide Popup
 function div_hide(){
 document.getElementById('popup').style.display = "none";
