@@ -14,7 +14,7 @@ addBlog.onclick = () =>{
 edit.onclick = () =>{
 	
 	document.getElementById('popup').style.display = "block";
-	document.getElementById('title').innerHtml +=title ;
+	
 }
 //Function to Hide Popup
 function div_hide(){
