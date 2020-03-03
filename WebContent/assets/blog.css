@@ -98,13 +98,14 @@ nav ul a {
 	align-items: center;
 }
 
-.card-buttons a, .card-buttons span {
+.card-buttons button, .card-buttons span {
 	text-decoration: none;
 	padding-right: 3px;
 	font-weight: 600;
 	font-size: 14px;
 	line-height: 19px;
 	color: #6C63FF;
+	background-color:white;
 }
 
 /*Pop up */
