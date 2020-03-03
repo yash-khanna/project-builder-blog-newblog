@@ -1,6 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Lab | BLOG - User Registration
+# ProGrad Lab | BLOG - NEW BLOG
 
 ## A Quick Introduction
 
