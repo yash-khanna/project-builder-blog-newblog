@@ -34,6 +34,7 @@ And finally, create a pull request so your ProGrad Mentor (PM) can review your w
 4. ***You will have 3 packages src/controller, src/model and src/businesslogic.***
 5. ***Create Classes inside the model package***
 6. ***Once the progressions are completed, follow the instructions to run the application and test your code.***
+7. ***Use username as admin and password as admin to login inside the blog.***
  
 ## Run the Project
 1. ***Right click on the project.***
