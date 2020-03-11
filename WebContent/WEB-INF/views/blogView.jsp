@@ -26,12 +26,12 @@
         <button class="button" id="addBlog" ><i class="fas fa-plus-circle"></i>Add New Post</button>
     </div>
 <div id="popup">
-<!-- Popup Div Starts Here -->
+
 <div id="popupContact">
 <img id="close" src="./assets/close-button.svg" onclick ="div_hide()">
 <img id="rect" src=./assets/rect.svg>
 <h2>Your Post</h2>
-<!-- Contact Us Form -->
+
 <form action="${pageContext.request.contextPath}/blog" id="form" method="post" name="form"> <%--${pageContext.request.contextPath}/blog  --%>
 
 <input id="title" name="title-text" placeholder="Title" type="text">
